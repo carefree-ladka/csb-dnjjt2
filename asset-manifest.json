@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://carefree-ladka.github.io/csb-dnjjt2/static/css/main.1c4e26a0.chunk.css",
+    "main.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/main.cdf26006.chunk.js",
+    "main.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/main.cdf26006.chunk.js.map",
+    "runtime-main.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/runtime-main.9bb9845d.js",
+    "runtime-main.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/runtime-main.9bb9845d.js.map",
+    "static/js/2.93a06586.chunk.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/2.93a06586.chunk.js",
+    "static/js/2.93a06586.chunk.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/2.93a06586.chunk.js.map",
+    "static/js/3.56dc0f08.chunk.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/3.56dc0f08.chunk.js",
+    "static/js/3.56dc0f08.chunk.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/3.56dc0f08.chunk.js.map",
+    "static/js/4.6a02dd08.chunk.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/4.6a02dd08.chunk.js",
+    "static/js/4.6a02dd08.chunk.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/4.6a02dd08.chunk.js.map",
+    "static/js/5.f686f694.chunk.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/5.f686f694.chunk.js",
+    "static/js/5.f686f694.chunk.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/5.f686f694.chunk.js.map",
+    "static/js/6.7f6218d7.chunk.js": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/6.7f6218d7.chunk.js",
+    "static/js/6.7f6218d7.chunk.js.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/6.7f6218d7.chunk.js.map",
+    "index.html": "https://carefree-ladka.github.io/csb-dnjjt2/index.html",
+    "static/css/main.1c4e26a0.chunk.css.map": "https://carefree-ladka.github.io/csb-dnjjt2/static/css/main.1c4e26a0.chunk.css.map",
+    "static/js/2.93a06586.chunk.js.LICENSE.txt": "https://carefree-ladka.github.io/csb-dnjjt2/static/js/2.93a06586.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb9845d.js",
+    "static/js/2.93a06586.chunk.js",
+    "static/css/main.1c4e26a0.chunk.css",
+    "static/js/main.cdf26006.chunk.js"
+  ]
+}
